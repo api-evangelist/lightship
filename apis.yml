@@ -10,6 +10,17 @@ description: Lightship is an American manufacturer of all-electric travel traile
   more than 85% of its supply chain is in the United States. Enrichment probes on 2026-07-19
   found no public API, developer portal, SDK, or /.well-known/ discovery surface; this is a
   company record in the API Evangelist network rather than an API listing.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
